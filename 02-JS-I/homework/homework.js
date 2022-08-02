@@ -13,7 +13,8 @@ const nuevoBool = null;
 const nuevaResta = 10 - null === 5;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = 10 * null === 40 ;
+const nuevaMultiplicacion = 10 * HOLAs
+ === 40 ;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === null;
@@ -149,7 +150,8 @@ function esPositivo(numero) {
   
 }
 
-function agregarSimboloExclamacion(str) {
+function agregarSimboloExclamacion(holass
+  s {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
